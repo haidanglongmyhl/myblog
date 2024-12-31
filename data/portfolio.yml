@@ -1,0 +1,60 @@
+portfolioitems:
+  # portfolio category
+  - title: Dự án nhóm
+    description: 'Tất cả dự án lập trình với nhóm của tôi'
+    portfolioitem:
+      - name: Ứng dụng quản lý nhân sự
+        image: '/images/portfolio/Quanlynhansu.png'
+        description: '
+Ứng dụng quản lý nhân sự giúp doanh nghiệp tối ưu hóa quy trình quản lý nhân viên với các tính năng như lưu trữ hồ sơ, chấm công, tính lương, quản lý nghỉ phép và đánh giá hiệu suất. Giao diện thân thiện, dễ sử dụng, phù hợp với mọi quy mô doanh nghiệp.'
+        tags:
+          - Java
+          - Visual studio code
+        status: 'Đã hoàn thiện'
+        start: '12/2022'
+        end: '01/2023'
+        authors:
+          - Trần Hải Đăng
+          - Nguyễn Văn Cảnh
+          - Lê Thị Thanh Ngân
+          - Đỗ Thành Đạt
+      - name: Trang web quản lý chuỗi homestay
+        image: '/images/portfolio/homestay.png'
+        
+        description: 'Website quản lý homestay là giải pháp hỗ trợ chủ sở hữu tối ưu hóa việc quản lý đặt phòng, theo dõi lịch trình, kiểm soát doanh thu và quản lý thông tin khách hàng. Với giao diện trực quan, dễ sử dụng, website cho phép cập nhật tình trạng phòng, quản lý dịch vụ đi kèm và gửi thông báo nhanh chóng. Công cụ này giúp nâng cao hiệu quả vận hành và mang đến trải nghiệm tốt nhất cho khách hàng.'
+        status: 'Hoàn thành'
+        start: '10/2024'
+        end: '12/2024'
+        authors:
+          - Trần Hải Đăng
+          - Nguyễn Bá Cường
+          - Đỗ Thành Đạt
+        tags:
+          - HomeStay
+          - Website
+      - name: Trang web quản đặt bàn nhà hàng
+        image: '/images/portfolio/booking.png'
+        description: ' Trang web đặt bàn là nền tảng trực tuyến giúp khách hàng dễ dàng tìm kiếm và đặt bàn tại các nhà hàng yêu thích chỉ với vài thao tác đơn giản. Với giao diện thân thiện, website cung cấp thông tin chi tiết về thực đơn, khung giờ trống, ưu đãi đặc biệt và đánh giá từ khách hàng. Hệ thống giúp nhà hàng quản lý đặt chỗ hiệu quả, giảm thiểu trùng lặp và nâng cao trải nghiệm khách hàng.'
+        tags:
+          - Java
+          - Booking
+          - Visual studio code
+        status: 'Đã hoàn thiện'
+        start: '07/2022'
+        end: '09/2022'
+        authors:
+          - Trần Hải Đăng
+          - Nguyễn Văn Cảnh
+          
+     
+ 
+  - title: Dự án cá nhân 
+    description: 'Tất cả dự án cá nhân của tôi'
+    portfolioitem:
+      - name: Làm blog chia sẽ về Java
+        image: '/images/portfolio/blog.png'
+        description: 'Blog chia sẻ về Java là nơi cung cấp kiến thức, tài liệu và kinh nghiệm thực tế về ngôn ngữ lập trình Java. Blog tập trung vào các chủ đề như lập trình cơ bản, hướng đối tượng, Spring Boot, Hibernate, xây dựng ứng dụng web, tối ưu hóa mã nguồn và các mẹo lập trình hữu ích. Đây là nguồn tài nguyên hữu ích dành cho cả người mới học và lập trình viên muốn nâng cao kỹ năng, giúp bạn hiểu sâu hơn về Java và áp dụng hiệu quả vào các dự án thực tế.'
+        tags:
+          - Blog
+          - Website
+          - Java

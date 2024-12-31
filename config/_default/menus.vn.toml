@@ -1,0 +1,54 @@
+  [[main]]
+  name = "Trang chủ"
+  identifier = "Trang chu"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Bài viết"
+  weight = 200
+  identifier = "Bai viet"
+  url = "/posts/"
+
+  [[main]]
+  name = "Danh mục"
+  weight = 300
+  identifier = "Danh muc"
+  url = "/portfolio/"
+
+  [[main]]
+  name = "Về tôi"
+  weight = 400
+  identifier = "Ve toi"
+  url = "/about/"
+
+  [[main]]
+  name = "Thành tựu"
+  weight = 500
+  identifier = "ThanhTuu"
+
+  [[main]]
+  name = "Chứng chỉ"
+  weight = 510
+  identifier = "chungchi"
+  url = "/chungchi/"
+  parent = "ThanhTuu"  
+
+  [[main]]
+  name = "Khóa học online"
+  weight = 520
+  identifier = "KhoaHocOnline"
+  url = "/khoahoconline/"
+  parent = "ThanhTuu"
+
+  [[main]]
+  name = "Liên hệ"
+  weight = 600
+  identifier = "Lien he"
+  url = "/contact/"
+
+  [[footer]]
+  name = "imprint"
+  weight = 1
+  identifier = "imprint"
+  url = "/imprint/"
